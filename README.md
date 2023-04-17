@@ -1,6 +1,6 @@
 # SeungWoon Song
 
-### A highly responsible and focused problem solver with a proven track record of leading projects and collaborating effectively.
+### A skilled infrastructure engineer with a strong problem-solving mindset.
 
 **Key Characteristics:**
 - Strong sense of responsibility and a can-do attitude
