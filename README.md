@@ -4,8 +4,6 @@
 
 **About Me:**
 - Currently studying at [42Seoul](https://42seoul.kr)
--[![susong's 42 stats](https://badge42.vercel.app/api/v2/clgke6p0c002508mazzy1b7ui/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
-
 - Former officer with a background in Public Affairs Officer (PAO)
 
 **Key Characteristics:**
