@@ -35,7 +35,7 @@
     - Designed with the concept of discovering clues during their journey through benefits
     - Studied browser optimization and browser structure in-depth while learning Three.js
 
-4. **42Noti**
+4. **42Noti** _(Jan. 2023)_
     - A service used by approximately 1,000 people, responsible for development and maintenance
     - Utilizes 42API and Slack Bot API, managed with Docker on EC2
 
