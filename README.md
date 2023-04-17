@@ -4,7 +4,7 @@
 
 **About Me:**
 - Currently studying at [42Seoul](https://42seoul.kr)
-- Former officer with a background in Public Affairs Officer (PAO)
+- Former First Lieutenant with a background in Public Affairs Officer (PAO)
 
 **Key Characteristics:**
 - Strong sense of responsibility and a can-do attitude
