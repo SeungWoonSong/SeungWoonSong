@@ -8,6 +8,7 @@
     - Offers a comprehensive and progressive curriculum, covering low-level to high-level programming languages and computer science concepts
     - Engages students in hands-on projects, such as building a shell and web server from scratch, to ensure practical understanding and application
 - Former First Lieutenant with a background in Public Affairs Officer (PAO)
+- Studied in Hanyang Univ(Major in Philosophy, Humanities-Software Convergence)
 
 **Key Characteristics:**
 - Strong sense of responsibility and a can-do attitude
