@@ -2,6 +2,10 @@
 
 ### A skilled infrastructure engineer with a strong problem-solving mindset.
 
+**About Me:**
+- Currently studying at [42Seoul](https://42seoul.kr)
+- Former officer with a background in Public Affairs Officer (PAO)
+
 **Key Characteristics:**
 - Strong sense of responsibility and a can-do attitude
 - Focused on resolving issues until completion
@@ -11,7 +15,7 @@
 
 **Notable Projects (Since 22.6.)**
 
-1. **Personal Blog:** [songseungwoon.com](http://songseungwoon.com)
+1. **Personal Blog:** [songseungwoon.com](https://songseungwoon.com)
     - A blog documenting challenges encountered during projects and frequently used technologies
     - Mainly focused on writing project retrospectives
 
@@ -19,18 +23,18 @@
     - Enjoys sharing development-related videos and conference presentations
     - Features presentations on modern browser architecture and Innovation Academy conference content
 
-3. **Morning Attendance Site (Morning Glory):** [42mogle.com](http://42mogle.com) _(Nov. 2022)_
+3. **Morning Attendance Site (Morning Glory):** [42mogle.com](https://42mogle.com) _(Nov. 2022)_
     - Managed infrastructure and front-end tasks
     - First deployed site, developed from November to December 2022
     - Initial deployment had a complex structure, but after two revisions, now uses EC2, S3, and CloudFront
     - Gained a deeper understanding of cloud, network structure, and service provision during redeployment
 
-4. **Evaluation Metrics Site:** [evaluation.42seoul.link](http://evaluation.42seoul.link) _(Feb. 2023)_
+4. **Evaluation Metrics Site:** [evaluation.42seoul.link](https://evaluation.42seoul.link) _(Feb. 2023)_
     - Handled data collection, deployment, and project management
     - Developed a site for 42Seoul, which operates on a peer-review basis, to display evaluator profiles at a glance
     - To use the site, enter the entry code (evaluation.42seoul.link) and search for evaluator "susong"
 
-5. **42Seoul Benefits Page:** [benefit.42seoul.link](http://benefit.42seoul.link) _(Mar. 2023)_
+5. **42Seoul Benefits Page:** [benefit.42seoul.link](https://benefit.42seoul.link) _(Mar. 2023)_
     - Collaborated with one other developer, responsible for planning, development, and deployment
     - Created a benefits site for 42Seoul students, who are represented as travelers
     - Designed with the concept of discovering clues during their journey through benefits
