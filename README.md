@@ -9,7 +9,7 @@
 - Enjoys taking on responsibilities and leading projects
 - Strong communication skills and a team player
 
-**Notable Projects (22. 6. ~):**
+**Notable Projects (22. 6. ~)**
 
 1. **Personal Blog:** [songseungwoon.com](http://songseungwoon.com)
     - A blog documenting challenges encountered during projects and frequently used technologies
