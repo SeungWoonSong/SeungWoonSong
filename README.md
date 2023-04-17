@@ -4,6 +4,8 @@
 
 **About Me:**
 - Currently studying at [42Seoul](https://42seoul.kr)
+-[![susong's 42 stats](https://badge42.vercel.app/api/v2/clgke6p0c002508mazzy1b7ui/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+
 - Former officer with a background in Public Affairs Officer (PAO)
 
 **Key Characteristics:**
@@ -44,5 +46,4 @@
     - A service used by approximately 1,000 people, responsible for development and maintenance
     - Utilizes 42API and Slack Bot API, managed with Docker on EC2
 
-[![susong's 42 stats](https://badge42.vercel.app/api/v2/clgke6p0c002508mazzy1b7ui/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
