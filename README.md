@@ -15,7 +15,7 @@
     - A blog documenting challenges encountered during projects and frequently used technologies
     - Mainly focused on writing project retrospectives
 
-2. **Youtube:** [www.youtube.com/@MunDolDev](https://www.youtube.com/@MunDolDev)
+2. **Youtube:** [youtube.com/@MunDolDev](https://www.youtube.com/@MunDolDev)
     - Enjoys sharing development-related videos and conference presentations
     - Features presentations on modern browser architecture and Innovation Academy conference content
 
