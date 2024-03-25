@@ -3,7 +3,7 @@
 ### A skilled infrastructure engineer with a strong problem-solving mindset.
 
 **About Me:**
-- Workin in Ericsson-LG as a Researcher of SMF(Telecom Core), using C++, K8S
+- Working in Ericsson-LG as a Researcher of SMF(Telecom Core), using C++, K8S
 - Priveously studying at [42Seoul](https://42seoul.kr)
     - 42Seoul, a prestigious Korean adaptation of the innovative French Ecole42 education method
     - Offers a comprehensive and progressive curriculum, covering low-level to high-level programming languages and computer science concepts
