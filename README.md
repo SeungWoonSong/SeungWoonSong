@@ -5,9 +5,6 @@
 **About Me:**
 - Working in Ericsson-LG as a Researcher of SMF(Telecom Core), using C++, K8S
 - Priveously studying at [42Seoul](https://42seoul.kr)
-    - 42Seoul, a prestigious Korean adaptation of the innovative French Ecole42 education method
-    - Offers a comprehensive and progressive curriculum, covering low-level to high-level programming languages and computer science concepts
-    - Engages students in hands-on projects, such as building a shell and web server from scratch, to ensure practical understanding and application
 - Former First Lieutenant with a background in Public Affairs Officer (PAO)
 - Dual Bachelor's degree in Philosophy and Humanities-Software Convergence from Hanyang University
 
