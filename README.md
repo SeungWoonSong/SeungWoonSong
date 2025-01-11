@@ -16,5 +16,6 @@
 2. **Youtube:** [youtube.com/@MunDolDev](https://www.youtube.com/@MunDolDev)
     - Enjoys sharing development-related videos and conference presentations
     - Features presentations on modern browser architecture and Innovation Academy conference content
+3. **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sungwoonsong/)
 
 
