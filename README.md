@@ -4,7 +4,7 @@
 
 **About Me:**
 - Working in Ericsson as a Developer of SMF(Telecom Core), using C++, K8S
-- Priveously studying at [42Seoul](https://42seoul.kr)
+- Priveously studying at 42Seoul
 - Former First Lieutenant with a background in Public Affairs Officer (PAO)
 - Dual Bachelor's degree in Philosophy and Humanities-Software Convergence from Hanyang University
 
